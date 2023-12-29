@@ -1,0 +1,15 @@
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day12/day12/day12/bin/Debug/net7.0/day12
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day12/day12/day12/bin/Debug/net7.0/day12.deps.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day12/day12/day12/bin/Debug/net7.0/day12.runtimeconfig.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day12/day12/day12/bin/Debug/net7.0/day12.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day12/day12/day12/bin/Debug/net7.0/day12.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day12/day12/day12/obj/Debug/net7.0/day12.csproj.AssemblyReference.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day12/day12/day12/obj/Debug/net7.0/day12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day12/day12/day12/obj/Debug/net7.0/day12.AssemblyInfoInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day12/day12/day12/obj/Debug/net7.0/day12.AssemblyInfo.cs
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day12/day12/day12/obj/Debug/net7.0/day12.csproj.CoreCompileInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day12/day12/day12/obj/Debug/net7.0/day12.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day12/day12/day12/obj/Debug/net7.0/refint/day12.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day12/day12/day12/obj/Debug/net7.0/day12.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day12/day12/day12/obj/Debug/net7.0/day12.genruntimeconfig.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day12/day12/day12/obj/Debug/net7.0/ref/day12.dll
